@@ -41,8 +41,8 @@ Desenvolvedor Java Pleno.
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaFFC&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=LorenaFFC&theme=radical&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafecomdeploy&hide=html&layout=compact&theme=radical" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=cafecomdeploy&theme=radical&show_icons=true" /></td>
   </tr>  
 </table>
 </center>
