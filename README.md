@@ -31,18 +31,7 @@ Desenvolvedor Java Pleno.
 <img align="left" alt="SQLSERVER" width="95px" src="https://img.shields.io/badge/-Sql%20Server-333333?style=for-the-badge&logo=sql-server" />
 <img align="left" alt="POST" width="115px" src="https://img.shields.io/badge/-postgresql-333333?style=for-the-badge&logo=postgresql" />
 <img align="left" alt="MONGODB" width="95px" src="https://img.shields.io/badge/-mongodb-333333?style=for-the-badge&logo=mongodb" />
-
-
+<img align="left" alt="ORACLE" width="95px" src="https://img.shields.io/badge/-mongodb-333333?style=for-the-badge&logo=oracle" />
 
 <br/>
 <br/>
-
-### Recent Acitivies ✨
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafecomdeploy&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=cafecomdeploy&theme=radical&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
