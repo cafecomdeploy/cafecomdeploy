@@ -5,7 +5,7 @@
 </p>
 
 ### About me 💬
-Desenvolvedor Java Pleno.
+Desenvolvedor Java.
 
 ### Technology Stack 💻
 
